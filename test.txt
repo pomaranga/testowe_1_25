@@ -1,1 +1,2 @@
-pierwsza linia
+pierwsza
+druga
