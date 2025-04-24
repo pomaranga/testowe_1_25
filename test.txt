@@ -6,6 +6,9 @@ piąta
 six
 siodma
 ósma
+
+brakująca
+
 jedenasta
 dwunasta
 trzynasta
