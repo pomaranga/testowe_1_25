@@ -13,3 +13,4 @@ dwunasta
 trzynasta
 czternasta
 pietnasta
+szesnasta
