@@ -11,3 +11,4 @@ dziesiąta
 jedenasta
 dwunasta
 trzynasta
+czternasta
