@@ -5,3 +5,4 @@ czwarta
 piąta
 six
 siodma
+ósma
