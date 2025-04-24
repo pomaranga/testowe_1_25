@@ -12,3 +12,4 @@ jedenasta
 dwunasta
 trzynasta
 czternasta
+pietnasta
