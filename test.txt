@@ -9,3 +9,4 @@ siodma
 dziewiąta
 dziesiąta
 jedenasta
+dwunasta
