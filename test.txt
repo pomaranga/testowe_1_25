@@ -6,8 +6,6 @@ piąta
 six
 siodma
 ósma
-dziewiąta
-dziesiąta
 jedenasta
 dwunasta
 trzynasta
