@@ -6,3 +6,4 @@ piąta
 six
 siodma
 ósma
+dziewiąta
